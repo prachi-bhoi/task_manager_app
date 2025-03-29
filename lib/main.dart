@@ -6,8 +6,8 @@ import 'task_list_screen.dart';
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
-  final keyApplicationId = 'YOUR_BACK4APP_APPLICATION_ID';
-  final keyClientKey = 'YOUR_BACK4APP_APPLICATION_ID';
+  final keyApplicationId = 'DF6KLn7PDBid907m4h58Ut5LORkhXXTgXIZHby2x';
+  final keyClientKey = 'EjmnT8Skf8xWjLpuybiOWA0wsGeV2krBuvohiyC1';
   final keyParseServerUrl = 'https://parseapi.back4app.com';
 
   await Parse().initialize(
@@ -150,9 +150,7 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'You have pushed the button this many times:',
-            ),
+            const Text('You have pushed the button this many times:'),
             Text(
               '$_counter',
               style: Theme.of(context).textTheme.headlineMedium,
