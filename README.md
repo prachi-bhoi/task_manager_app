@@ -49,29 +49,24 @@ Once the app is running on an emulator or device, you can:
 Distributed under the MIT License. See LICENSE for more information.
 
 ## SCREENSHOTS
-Installation and Setting up Flutter Project
-![image](https://github.com/user-attachments/assets/7dca4be4-2938-42a8-858f-622d883fe629)
+![image](https://github.com/user-attachments/assets/56b03349-9b1d-433f-9651-481371addb5c)
 
-Setting up Environment Variable for Flutter
-![image](https://github.com/user-attachments/assets/87c678a9-8560-4331-9c75-d1946a32e52a)
+![image](https://github.com/user-attachments/assets/44bdec76-982e-4caf-9206-b59731bea70d)
 
-We have successfully completed the setup of flutter and checked the version by running ‘flutter --version’ in CMD.
+![image](https://github.com/user-attachments/assets/9f650237-ec70-42eb-9f31-cc9f8e7c61e7)
 
-![image](https://github.com/user-attachments/assets/ea40351f-2987-4971-a54d-02f84adbfafd)
+![image](https://github.com/user-attachments/assets/9639b3b3-49fd-4344-805e-d804bacb5517)
 
-Set up an IDE like VS Code
-![image](https://github.com/user-attachments/assets/71019c20-e396-47e1-ac26-2bd68a1d7b23)
+![image](https://github.com/user-attachments/assets/6be35756-4154-4d35-ab5d-d5fec0e94f23)
 
-Project Creation:
-![image](https://github.com/user-attachments/assets/6f769f39-fb1c-479e-a19a-f7a189069d9f)
+![image](https://github.com/user-attachments/assets/15a5f88b-dc33-4c17-b143-db4a0c05495d)
 
-![image](https://github.com/user-attachments/assets/cfdee0f7-1559-4baf-b72a-eb8826c622e1)
+![image](https://github.com/user-attachments/assets/7c5c7a1b-e3e4-4411-b21f-d0adf6e605c0)
+
+<img width="620" alt="image" src="https://github.com/user-attachments/assets/47c606a5-d0c6-46bf-a60d-ee7152478fc8" />
 
 
 
 
 
-
-
-![image](https://github.com/user-attachments/assets/88316418-bcff-4844-8513-02228be3219f)
 
