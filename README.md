@@ -47,3 +47,7 @@ Once the app is running on an emulator or device, you can:
 ### License
 
 Distributed under the MIT License. See LICENSE for more information.
+
+## SCREENSHOTS
+![image](https://github.com/user-attachments/assets/88316418-bcff-4844-8513-02228be3219f)
+
