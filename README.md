@@ -49,5 +49,29 @@ Once the app is running on an emulator or device, you can:
 Distributed under the MIT License. See LICENSE for more information.
 
 ## SCREENSHOTS
+Installation and Setting up Flutter Project
+![image](https://github.com/user-attachments/assets/7dca4be4-2938-42a8-858f-622d883fe629)
+
+Setting up Environment Variable for Flutter
+![image](https://github.com/user-attachments/assets/87c678a9-8560-4331-9c75-d1946a32e52a)
+
+We have successfully completed the setup of flutter and checked the version by running ‘flutter --version’ in CMD.
+
+![image](https://github.com/user-attachments/assets/ea40351f-2987-4971-a54d-02f84adbfafd)
+
+Set up an IDE like VS Code
+![image](https://github.com/user-attachments/assets/71019c20-e396-47e1-ac26-2bd68a1d7b23)
+
+Project Creation:
+![image](https://github.com/user-attachments/assets/6f769f39-fb1c-479e-a19a-f7a189069d9f)
+
+![image](https://github.com/user-attachments/assets/cfdee0f7-1559-4baf-b72a-eb8826c622e1)
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/88316418-bcff-4844-8513-02228be3219f)
 
