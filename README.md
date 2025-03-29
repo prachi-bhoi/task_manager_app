@@ -17,14 +17,14 @@ To get this project up and running on your local machine for development and tes
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/shub007pat/task-manager-app.git
+   git clone https://github.com/prachi-bhoi/task_manager_app.git
 2. Navigate to the project directory:
    ```sh
    cd task-manager-app
 3. Install dependencies:
    ```sh
    flutter pub get
-4. Create a Back4App account via [https://www.back4app.com/]
+4. Create a Back4App account via [https://backend.back4app.com/apps/c457070a-e954-4b77-9a32-2f3dce19f5ab/browser/Tasks]
 5. In Back4App create a class named "Tasks" with coloums:
    - title (string)
    - description (string)
